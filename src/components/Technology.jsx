@@ -14,10 +14,10 @@ function Technology() {
       className="flex flex-row justify-center mt-[100px]  animate-slide_right_center phone:mt-10 "
     >
       <div className="flex flex-col items-start pb-5 bg-white shadow-lg phone:w-[95vw] ">
-        <h1 className="font-bold text-xl text-white  bg-purple-600 py-1 px-2 rounded-tr-2xl phone:rounded-tr-xl phone:text-sm ">
+        <h1 className="font-bold text-xl text-white  bg-purple-500 py-1 px-2 rounded-tr-2xl phone:rounded-tr-xl phone:text-sm ">
           Technology:
         </h1>
-        <div className="border-t-8 border-purple-600">
+        <div className="border-t-8 border-purple-500">
           <Carousel
             arrows
             className="w-[70vw] h-[300px]  m-auto tablet:h-fit  phone:w-[95vw] phone:h-fit "
